@@ -1,0 +1,6 @@
+
+[INFO ] 2022-09-23 10:56:27.875 [main]  - Employee Added : true
+[INFO ] 2022-09-23 10:56:38.201 [main]  - PersonalDetails [firstName=Avinash, lastName=Reddy, address=Kakinada, email=avinashreddy1315@gmail.com, phoneNumber=7995443533, dateOfBirth=2000-06-14, weddingDate=2030-06-14]
+[INFO ] 2022-09-23 16:54:47.218 [main]  - Employee Added : true
+[INFO ] 2022-09-23 16:55:01.761 [main]  - PersonalDetails [firstName=rohit, lastName=tatikonda, address=rajamundry, email=tatikonda@gmail.com, phoneNumber=6362429067, dateOfBirth=2000-07-14, weddingDate=2030-07-14]
+[INFO ] 2022-09-23 16:56:31.747 [main]  - PersonalDetails [firstName=rohit, lastName=tatikonda, address=rajamundry, email=tatikonda@gmail.com, phoneNumber=6362429067, dateOfBirth=2000-07-14, weddingDate=2030-07-14]
